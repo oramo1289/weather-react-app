@@ -1,0 +1,12 @@
+$space: 2.5rem;
+$title-color: #555;
+
+.panel-title {
+    color: $title-color;
+    margin-top: $space;
+    margin-bottom: $space;
+}
+
+input[type=search] {
+    box-shadow: none;
+}
